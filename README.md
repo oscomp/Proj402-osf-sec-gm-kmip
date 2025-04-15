@@ -2,7 +2,7 @@
 基于国密标准的KMIP协议客户端实现  
 
 ### 导师信息
-霍文，15165077960，huowen@ieisystem.com  
+霍文，huowen@ieisystem.com  
 
 ### 难度
 高  
